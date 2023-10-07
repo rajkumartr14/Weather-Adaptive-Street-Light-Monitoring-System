@@ -1,1 +1,1 @@
-# Weather-Adaptive-Street-Light-Monitoring-System
+# Weather-Adaptive-Street-Lightning-System
